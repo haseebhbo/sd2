@@ -1,2 +1,2 @@
 # sd2
-trail
+HELLO IM CHITTI THE ROBPOT
